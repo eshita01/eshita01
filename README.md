@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @eshita01
-- 👀 I’m interested in Data Science, Machine Learning and Astrophysics
-- 🌱 I’m currently learning Electronics and Telecommunication
+- 👋 Hi, I’m @eshita01, MSc Computer Science @ University of Birmingham
+- 👀 I’m interested in Cloud Computing, Machine Learning and Astrophysics
 - 💞️ I’m looking to collaborate on any Data science open source project
 
 
